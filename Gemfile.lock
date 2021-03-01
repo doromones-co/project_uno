@@ -234,6 +234,7 @@ DEPENDENCIES
   puma (~> 5.0)
   rack-mini-profiler (~> 2.0)
   rails (~> 6.1.3)
+  rexml
   rubocop
   rubocop-rails
   sass-rails (>= 6)
